@@ -1,0 +1,10 @@
+.imageItem {
+  height: 80%;
+}
+.tab-image-buttons {
+  border-width: 0px;
+  background-color: transparent;
+}
+.revealColor {
+  background-color: #64748b;
+}
